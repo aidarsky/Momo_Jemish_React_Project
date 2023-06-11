@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "price": 25,
+      "picture": "https://example.com/product1.jpg",
+      "kg": 1,
+      "title": "Абрикос"
+    },
+    {
+      "id": 2,
+      "price": 50,
+      "picture": "https://example.com/product2.jpg",
+      "kg": 1,
+      "title": "Яблоко"
+    },
+    {
+        "id": 3,
+        "price": 235,
+        "picture": "https://example.com/product2.jpg",
+        "kg": 1,
+        "title": "Малина"
+      },
+      {
+        "id": 4,
+        "price": 160,
+        "picture": "https://example.com/product2.jpg",
+        "kg": 1,
+        "title": "Смородина"
+      }
+  ]
